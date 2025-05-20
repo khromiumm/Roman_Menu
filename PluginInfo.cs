@@ -3,8 +3,8 @@
     public class PluginInfo
     {
         public const string GUID = "org.iidk.gorillatag.iimenu";
-        public const string Name = "ii's Stupid Menu";
-        public const string Description = "Created by @goldentrophy with love <3";
-        public const string Version = "6.1.0";
+        public const string Name = "Roman Menu";
+        public const string Description = "Created by @NumeralGT with love <3";
+        public const string Version = "1.0.0";
     }
 }
